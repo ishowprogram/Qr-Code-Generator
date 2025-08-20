@@ -60,13 +60,9 @@ The Advanced QR Code Generator is built using modern web technologies such as Re
 <img width="1894" height="851" alt="image" src="https://github.com/user-attachments/assets/8241add2-2255-4032-b152-5bdd97efb59f" />
 
 👤 **Author**
-@ishowprogram
 
-This project was created by [Your Name] and is maintained by [Your Name].
+Github Profile - @ishowprogram
 
-📝 **License**
-------------
-
-This project is licensed under the [License].
+----------------
 
 I hope you enjoy using the Advanced QR Code Generator! 😊
