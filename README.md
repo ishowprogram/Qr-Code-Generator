@@ -45,7 +45,6 @@ The Advanced QR Code Generator is built using modern web technologies such as Re
 ----------------
 
 1. **Setup**: Clone the repository and install dependencies using `npm install`.
-2. **Environment**: Set up your environment by creating a `.env` file with the required variables.
 3. **Build**: Run `npm run build` to build the application.
 4. **Deploy**: Deploy the application to a production environment using your preferred method.
 
@@ -58,15 +57,10 @@ The Advanced QR Code Generator is built using modern web technologies such as Re
 📸 **Screenshots**
 ----------------
 
-[Insert screenshots of the QR code generator in action]
-
-📦 **API Reference**
-----------------
-
-[Insert API reference documentation for the QR code generator]
+<img width="1894" height="851" alt="image" src="https://github.com/user-attachments/assets/8241add2-2255-4032-b152-5bdd97efb59f" />
 
 👤 **Author**
-------------
+@ishowprogram
 
 This project was created by [Your Name] and is maintained by [Your Name].
 
